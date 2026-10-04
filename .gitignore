@@ -5,8 +5,10 @@ __pycache__/
 raw_data/*.csv
 raw_data/*.json
 !raw_data/README.md
+!raw_data/acs_2024_5yr_ca_county_socioeconomic_raw.csv
 processed_data/*.csv
 processed_data/*.json
+!processed_data/ca_county_socioeconomic_acs_2024.csv
 figures_maps/*.png
 figures_maps/*.svg
 figures_maps/*.pdf
