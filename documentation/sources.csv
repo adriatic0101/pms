@@ -1,0 +1,9 @@
+domain,source,release_or_vintage,geography,measure_or_table,url,status,notes
+PMS outcome,No qualifying public source identified,NA,California county,Validated PSST or DRSP outcome required,NA,BLOCKED,"No all-58-county validated PMS outcome found; do not substitute another menstrual or mental-health measure"
+Income,U.S. Census Bureau ACS,2024 5-year,County,B19013 median household income,https://api.census.gov/data/2024/acs/acs5.html,AVAILABLE,Direct survey estimate with margin of error
+Poverty,U.S. Census Bureau ACS,2024 5-year,County,B17001 income below poverty level,https://api.census.gov/data/2024/acs/acs5.html,AVAILABLE,Calculate percent from numerator and denominator
+Education,U.S. Census Bureau ACS,2024 5-year,County,B15003 bachelor's degree or higher,https://api.census.gov/data/2024/acs/acs5.html,AVAILABLE,Calculate percent among adults age 25+
+Food insecurity,CDC PLACES,2025 release,County,Food insecurity among adults,https://data.cdc.gov/d/swc5-untb,AVAILABLE,Model-based age-adjusted prevalence
+Sleep,CDC PLACES,2025 release,County,Short sleep duration among adults,https://data.cdc.gov/d/swc5-untb,AVAILABLE,Model-based age-adjusted prevalence
+Physical activity,CDC PLACES,2025 release,County,No leisure-time physical activity among adults,https://data.cdc.gov/d/swc5-untb,AVAILABLE,Model-based age-adjusted prevalence
+Healthcare access,CDC PLACES,2025 release,County,Lack of health insurance among adults 18-64,https://data.cdc.gov/d/swc5-untb,AVAILABLE,Model-based age-adjusted prevalence

@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+raw_data/*.csv
+raw_data/*.json
+!raw_data/README.md
+processed_data/*.csv
+processed_data/*.json
+figures_maps/*.png
+figures_maps/*.svg
+figures_maps/*.pdf
